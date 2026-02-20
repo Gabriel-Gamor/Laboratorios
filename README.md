@@ -1,2 +1,2 @@
-# Laborat-rios
+# Laboratorios
 testes de varias funcionalidades
